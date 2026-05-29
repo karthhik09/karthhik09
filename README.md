@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="greet-animation-2.svg" alt="Greetings animation" />
+  <img src="greet-animation-3.svg" alt="Greetings animation" />
 </p>
 
 ---
