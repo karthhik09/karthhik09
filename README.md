@@ -25,9 +25,6 @@ An Object Oriented human who `implements FullStackDev, TechEnthusiast`.
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo" />
       </div>
     </td>
     <td valign="top" width="50%">
@@ -39,7 +36,6 @@ An Object Oriented human who `implements FullStackDev, TechEnthusiast`.
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
       </div>
     </td>
   </tr>
@@ -51,7 +47,6 @@ An Object Oriented human who `implements FullStackDev, TechEnthusiast`.
         <img width="12" />
         <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo" />
         <img width="12" />
-        <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
       </div>
     </td>
     <td valign="top" width="50%">
